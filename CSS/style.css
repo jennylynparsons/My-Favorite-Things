@@ -23,7 +23,7 @@ ul {
 }
 
 ol {
-  list-container
+  .list-container
   text-align: center;
   font-size: 15px;
   line-height: 30px;
